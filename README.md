@@ -8,7 +8,6 @@ The project title is Bikeshare.
 
 ### Description
 This project explores bikeshare data for three major cities in the US: Chicago, New York City, and Washington. It provides insights into various aspects of bikeshare usage such as popular times of travel, popular stations and trip routes, trip durations, and user demographics.
-
 ### Files used
 washington.csv
 chicago.csv
