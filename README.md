@@ -4,7 +4,7 @@
 26 Oct 2024
 
 ### Project Title
-The project title is Bikeshare
+The project title is Bikeshare.
 
 ### Description
 This project explores bikeshare data for three major cities in the US: Chicago, New York City, and Washington. It provides insights into various aspects of bikeshare usage such as popular times of travel, popular stations and trip routes, trip durations, and user demographics.
