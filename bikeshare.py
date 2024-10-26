@@ -5,6 +5,7 @@ import numpy as np
 """Purpose: Use Python, Pandas, NumPy, to compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
     by Pham Kha Nhi
     Project: Explore US Bikeshare Data
+    Due Date: 22 Aug 2024
 """
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
